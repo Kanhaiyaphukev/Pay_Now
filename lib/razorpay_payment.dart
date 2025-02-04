@@ -138,7 +138,7 @@ class RazorPayPageState extends State<RazorPayPage> {
             },
             style: ElevatedButton.styleFrom(backgroundColor: Colors.black),
             child: Padding(
-              padding: EdgeInsets.all(8.0),
+              padding: EdgeInsets.all(9.0),
               child: Text(
                 'Pay Now',
                 style: TextStyle(color: Colors.white, fontSize: 17),
