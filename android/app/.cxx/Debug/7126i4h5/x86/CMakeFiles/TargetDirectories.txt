@@ -1,0 +1,2 @@
+D:/Workspace/flutter/Flutter_basics_project/pay_now_app/android/app/.cxx/Debug/7126i4h5/x86/CMakeFiles/edit_cache.dir
+D:/Workspace/flutter/Flutter_basics_project/pay_now_app/android/app/.cxx/Debug/7126i4h5/x86/CMakeFiles/rebuild_cache.dir

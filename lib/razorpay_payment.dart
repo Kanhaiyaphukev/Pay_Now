@@ -19,9 +19,10 @@ class RazorPayPageState extends State<RazorPayPage> {
       'key': 'rzp_test_1DP5mmOlF5G5ag',
       'amount': amount,
       'Name': 'Payment For Travelgeek',
-      'prefill': {'contact': '8830314380', 'email': 'test@razorpay.com'},
-      'external': {
+      'prefill': {'contact': '7887740074', 'email': 'test@razorpay.com'},
+      'external': <String, List<String>>{
         'wallets': ['paytm']
+
       }
     };
     try {
