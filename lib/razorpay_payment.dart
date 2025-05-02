@@ -19,10 +19,13 @@ class RazorPayPageState extends State<RazorPayPage> {
       'key': 'rzp_test_1DP5mmOlF5G5ag',
       'amount': amount,
       'Name': 'Payment For Travelgeek',
-      'prefill': {'contact': '7887740074', 'email': 'test@razorpay.com'},
+      'prefill': {
+        'contact': '7887740074',
+        'email': 'test@razorpay.com',
+        'upi_Id': 'kanhaiyaphukev-6@okicici'
+      },
       'external': <String, List<String>>{
         'wallets': ['paytm']
-
       }
     };
     try {
@@ -76,7 +79,7 @@ class RazorPayPageState extends State<RazorPayPage> {
             height: 121,
           ),
           Image.asset(
-            "assets/Integration icon.jpg",
+            "assets/playstore.png",
             height: 150,
             width: 150,
           ),

@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       title: 'PayNow Powered By Razorpay',
       debugShowCheckedModeBanner: false,
       themeMode: ThemeMode.system,
-      home: const RazorPayPage(),
+      home: RazorPayPage(),
     );
   }
 }
